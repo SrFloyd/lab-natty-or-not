@@ -1,7 +1,7 @@
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Agredecimento com IA
 
 ## 📒 Descrição
 Pequeno agradecimento aos profissionais da DIO
